@@ -1,5 +1,5 @@
-# NN3
-neural network with 3 layers(1 hidden layer)
+# NN2
+neural network with 2 layers(1 hidden layer)
 this is a program written in octave that can be used to train a model on the given dataset of images.
 
 pass the train data, target values and the number of classes present to the function [train].
